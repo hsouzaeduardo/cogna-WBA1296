@@ -5,7 +5,7 @@ Exercício Prático Módulo 1
 ## Como executar este exemplo no Google Colab
 
 1. **Carregue o arquivo Python**:
-     - Abra um novo bloco de notas do Google Colab.
+     - Abra um novo notebook do Google Colab [https://colab.research.google.com/].
      - Vá ao menu `Arquivo` e selecione `Carregar notebook`.
      - Carregue o arquivo `blockchain_001.py`.
 
